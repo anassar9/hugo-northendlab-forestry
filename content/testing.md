@@ -10,5 +10,4 @@ type = "post"
 +++
 # Never Give Up
 
-  
-For those who are listening out there!!
+For those who are listening out there!!!
