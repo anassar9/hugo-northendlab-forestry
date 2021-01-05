@@ -1,6 +1,6 @@
 +++
 author = "Hey"
-categories = []
+categories = ["Test"]
 date = 2021-01-04T22:00:00Z
 description = ""
 image = ""
